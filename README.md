@@ -1,6 +1,6 @@
 # camino-hamiltoniano
 Este programa resuelve el problema del camino hamiltoniano, que es propuesto en el problema informático PvsNP y que forma parte como uno de los 7 problemas del milenio.
-Dado que son infinitas conbinaciones no e podido probar todas pero el programa actualmente almenos funciona un 95% de las veces. 
+Dado que son infinitas conbinaciones no se pueden probar todas no se si el programa ya este listo al 100% pero el programa actualmente almenos funciona un 98% de las veces. 
 
 los requerimientos son python3,kivy,matplotlib,numpy,kivy_garden.graph
 
